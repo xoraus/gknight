@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xoraus/gKnight.git"
+    "url": "git+https://github.com/xoraus/gknight.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xoraus/gKnight/issues"
+    "url": "https://github.com/xoraus/gknight/issues"
   },
-  "homepage": "https://github.com/xoraus/gKnight#readme",
+  "homepage": "https://github.com/xoraus/gknight#readme",
   "dependencies": {
     "@octokit/rest": "^16.36.0",
     "chalk": "^3.0.0",
@@ -33,5 +33,7 @@
     "np": "^5.2.1",
     "simple-git": "^1.129.0",
     "touch": "^3.1.0"
-  }
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/" }
 }
