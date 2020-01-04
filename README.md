@@ -2,7 +2,7 @@
 Here’s a complete list of the packages we’ll use specifically for developing on the command line:
 
 - [x] chalk — colorizes the output
-- [x]clear — clears the terminal screen
+- [x] clear — clears the terminal screen
 - [x] clui — draws command-line tables, gauges and spinners
 - [x] figlet — creates ASCII art from text
 - [x]  inquirer — creates interactive command-line user interface
