@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Here’s a complete list of the packages we’ll use specifically for developing on the command line:",
   "main": "index.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
